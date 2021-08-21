@@ -1,5 +1,5 @@
 # **LSTM-Stock-Predictor**
-![deep-learning.jpg](Images/deep-learning.jpg)
+![deep-learning.jpg](deep-learning.jpg)
 
 
 ---
@@ -14,7 +14,9 @@ To use deep learning recurrent neural networks to model bitcoin closing prices.
 
 ---
 ### **Steps**
+1. **Fear and Greed Model**
 
+2. **Closing Prices Model**
 
 ### **Technologies/Tools/Libraries**
 1. Python
