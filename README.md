@@ -16,7 +16,7 @@ To use deep learning recurrent neural networks to model bitcoin closing prices.
 ### **Steps**
 1. **Fear and Greed Model**
    * Data Prepartion - 
-     * Load the CSV files -[btc_sentiment]() and [](btc_historic) and use 10 day window of previous closing prices
+     * Load the CSV files -[Bitcoin Sentiment](btc_sentiment.csv) and [Bitcoin Historical Closing Prices](btc_historic.csv) and use 10 day window of previous previous fng values
      * Use 70% of the data for training and the remaineder for testing
      * Use the MinMaxScaler to scale data between 0 and 1 for training snd testing data sets
    * Build and Train the LSTM RNN model
@@ -45,16 +45,17 @@ To use deep learning recurrent neural networks to model bitcoin closing prices.
 6. matplotlib
 7. hvplot.pandas
 8. Jupyter Notebook
-9. 
+9. tensorflow.random
 
 ----
 ### **Data**
-
+* [Bitcoin Sentiment](btc_sentiment.csv)
+* [Bitcoin Historical Closing Prices](btc_historic.csv)
 
 ---
 ### **Code**
-
-
+* [Fear and Greed Model](lstm_stock_predictor_fng.ipynb)
+* [Closing Prices Model](lstm_stock_predictor_closing.ipynb)
 
 ---
 ### **Output**
