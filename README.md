@@ -60,13 +60,13 @@ To use deep learning recurrent neural networks to model bitcoin closing prices.
 ---
 ### **Output**
 
-> **Which model has a lower loss?**
+> **Which model has a lower loss?** </br>
 >  Closing prices model has mean square error of 0.008, which is much less than Fear and Greed (FNG) Model has a mean square error of 0.0731. Further the loss FNG model is 0.059 where as closing price model is 0.01
 >
-> **Which model tracks the actual values better over time?**
+> **Which model tracks the actual values better over time?** </br>
 > Closing prices model better track values over time.
 >
-> **Which window size works best for the model?**
+> **Which window size works best for the model?** </br>
 > 10
 
 
