@@ -1,1 +1,34 @@
-# LSTM-Stock-Predictor
+# **LSTM-Stock-Predictor**
+
+
+
+---
+### **Background**
+
+
+---
+### **Objective**
+
+
+---
+### **Technologies/Tools/Libraries**
+
+
+----
+### **Data**
+
+
+---
+### **Code**
+
+
+
+
+
+
+
+
+
+
+
+
